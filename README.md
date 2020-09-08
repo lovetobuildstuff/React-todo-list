@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a small React Todo List App demonstrating usage of refs to handle form data and events between multiple components.
+
+Original lesson from [Kirupa's Learning React](https://www.kirupa.com)
 
 ## Available Scripts
 
