@@ -1,0 +1,57 @@
+@font-face {
+	font-family: 'InterstateLight';
+	src: url('./fonts/Interstate/Interstate-Light.eot?#iefix') format('embedded-opentype'),
+		 url('./fonts/Interstate/Interstate-Light.woff') format('woff'),
+		 url('./fonts/Interstate/Interstate-Light.ttf') format('truetype');
+	font-style: normal;
+	font-weight: 100;
+	text-rendering: optimizeLegibility;
+}
+@font-face {
+	font-family: 'InterstateRegular';
+	src: url('./fonts/Interstate/Interstate-Regular.eot?#iefix') format('embedded-opentype'),
+		 url('./fonts/Interstate/Interstate-Regular.woff') format('woff'),
+		 url('./fonts/Interstate/Interstate-Regular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+	text-rendering: optimizeLegibility;
+}
+@font-face {
+	font-family: 'InterstateBold';
+	src: url('./fonts/Interstate/Interstate-Bold.eot?#iefix') format('embedded-opentype'),
+		 url('./fonts/Interstate/Interstate-Bold.woff') format('woff'),
+		 url('./fonts/Interstate/Interstate-Bold.ttf') format('truetype');
+	font-style: normal;
+	font-weight: bold;
+	text-rendering: optimizeLegibility;
+}
+
+@font-face {
+	font-family: 'InterstateLightCondensed';
+	src: url('./fonts/Interstate/InterstateLightCondensed.eot?#iefix') format('embedded-opentype'),
+		 url('./fonts/Interstate/InterstateLightCondensed.woff') format('woff'),
+		 url('./fonts/Interstate/InterstateLightCondensed.ttf') format('truetype');
+	font-style: normal;
+	font-weight: 100;
+	text-rendering: optimizeLegibility;
+}
+@font-face {
+	font-family: 'InterstateRegularCondensed';
+	src: url('./fonts/Interstate/InterstateRegularCondensed.eot?#iefix') format('embedded-opentype'),
+		 url('./fonts/Interstate/InterstateRegularCondensed.woff') format('woff'),
+		 url('./fonts/Interstate/InterstateRegularCondensed.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+	text-rendering: optimizeLegibility;
+}
+
+@font-face {
+	font-family: 'InterstateBoldCompressed';
+	src: url('./fonts/Interstate/InterstateBoldCompressed.eot?#iefix') format('embedded-opentype'),
+		 url('./fonts/Interstate/InterstateBoldCompressed.woff') format('woff'),
+		 url('./fonts/Interstate/InterstateBoldCompressed.ttf') format('truetype');
+	font-style: normal;
+	font-weight: bold;
+	text-rendering: optimizeLegibility;
+}
+

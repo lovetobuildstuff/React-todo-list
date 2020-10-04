@@ -1,22 +1,31 @@
 {
   "files": {
-    "main.css": "/React-Single-Page-App/static/css/main.6f69d356.chunk.css",
-    "main.js": "/React-Single-Page-App/static/js/main.6fdf37e3.chunk.js",
-    "main.js.map": "/React-Single-Page-App/static/js/main.6fdf37e3.chunk.js.map",
-    "runtime-main.js": "/React-Single-Page-App/static/js/runtime-main.861ef1be.js",
-    "runtime-main.js.map": "/React-Single-Page-App/static/js/runtime-main.861ef1be.js.map",
-    "static/js/2.62e21e90.chunk.js": "/React-Single-Page-App/static/js/2.62e21e90.chunk.js",
-    "static/js/2.62e21e90.chunk.js.map": "/React-Single-Page-App/static/js/2.62e21e90.chunk.js.map",
-    "index.html": "/React-Single-Page-App/index.html",
-    "precache-manifest.55a2a39f3470e6a0734b83a317783ab0.js": "/React-Single-Page-App/precache-manifest.55a2a39f3470e6a0734b83a317783ab0.js",
-    "service-worker.js": "/React-Single-Page-App/service-worker.js",
-    "static/css/main.6f69d356.chunk.css.map": "/React-Single-Page-App/static/css/main.6f69d356.chunk.css.map",
-    "static/js/2.62e21e90.chunk.js.LICENSE.txt": "/React-Single-Page-App/static/js/2.62e21e90.chunk.js.LICENSE.txt"
+    "main.css": "/jameslake-resume/static/css/main.7ab0d247.chunk.css",
+    "main.js": "/jameslake-resume/static/js/main.29a314a6.chunk.js",
+    "main.js.map": "/jameslake-resume/static/js/main.29a314a6.chunk.js.map",
+    "runtime-main.js": "/jameslake-resume/static/js/runtime-main.ce1704c2.js",
+    "runtime-main.js.map": "/jameslake-resume/static/js/runtime-main.ce1704c2.js.map",
+    "static/js/2.64c4bfb6.chunk.js": "/jameslake-resume/static/js/2.64c4bfb6.chunk.js",
+    "static/js/2.64c4bfb6.chunk.js.map": "/jameslake-resume/static/js/2.64c4bfb6.chunk.js.map",
+    "index.html": "/jameslake-resume/index.html",
+    "precache-manifest.1db35bb4e6c574341006a1bb408c3a73.js": "/jameslake-resume/precache-manifest.1db35bb4e6c574341006a1bb408c3a73.js",
+    "service-worker.js": "/jameslake-resume/service-worker.js",
+    "static/css/main.7ab0d247.chunk.css.map": "/jameslake-resume/static/css/main.7ab0d247.chunk.css.map",
+    "static/js/2.64c4bfb6.chunk.js.LICENSE.txt": "/jameslake-resume/static/js/2.64c4bfb6.chunk.js.LICENSE.txt",
+    "static/media/bunny.jpg": "/jameslake-resume/static/media/bunny.d8921e0e.jpg",
+    "static/media/logo-AIA.svg": "/jameslake-resume/static/media/logo-AIA.8e20a5f1.svg",
+    "static/media/logo-ARC.png": "/jameslake-resume/static/media/logo-ARC.6d2efc40.png",
+    "static/media/logo-BBDO.svg": "/jameslake-resume/static/media/logo-BBDO.cf78a6ab.svg",
+    "static/media/logo-BTRNC.png": "/jameslake-resume/static/media/logo-BTRNC.569117ef.png",
+    "static/media/logo-CU.svg": "/jameslake-resume/static/media/logo-CU.bcdec90e.svg",
+    "static/media/logo-EY.svg": "/jameslake-resume/static/media/logo-EY.4408ebfd.svg",
+    "static/media/logo-JH.jpg": "/jameslake-resume/static/media/logo-JH.0760b323.jpg",
+    "static/media/logo-KO.svg": "/jameslake-resume/static/media/logo-KO.e1d5c546.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.861ef1be.js",
-    "static/js/2.62e21e90.chunk.js",
-    "static/css/main.6f69d356.chunk.css",
-    "static/js/main.6fdf37e3.chunk.js"
+    "static/js/runtime-main.ce1704c2.js",
+    "static/js/2.64c4bfb6.chunk.js",
+    "static/css/main.7ab0d247.chunk.css",
+    "static/js/main.29a314a6.chunk.js"
   ]
 }
